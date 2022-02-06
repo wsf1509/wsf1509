@@ -35,15 +35,23 @@ Genesis livro = [["Introdução"],
 
 11.["E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente está nela sobre a terra; e assim foi. ],
 
-["E a terra produziu erva, erva dando sementes conforme a sua espécie, e a árvore frutífera, cuja semente está nela conforme a sua espécie; e viu Deus que era bom. ],
-["E foi a tarde e a manhã, o dia terceiro." ],
-["E disse Deus: Haja luminares na expansão dos céus, para haver separação entre o dia e a noite; e são eles para sinais e para tempos determinados e para dias e anos." ],
-["E seja para luminares na expansão dos céus, para iluminar a terra; e assim foi. ],
-["E fez Deus os dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; e fez como estrelas. ],
-["E Deus os pôs na expansão dos céus para iluminar a terra",],
-["E para governar o dia e a noite, e para fazer separação entre a luz e as trevas; e viu Deus que era bom. ],
-["E foi a tarde e a manhã, o dia quarto." ],
-["E disse Deus: As águas de Fomento abundantemente répteis de alma vivente; e voem as aves sobre a face da expansão dos céus." ],
+12.["E a terra produziu erva, erva dando sementes conforme a sua espécie, e a árvore frutífera, cuja semente está nela conforme a sua espécie; e viu Deus que era bom. ],
+
+13.["E foi a tarde e a manhã, o dia terceiro." ],![OIP](https://user-images.githubusercontent.com/98570514/152699239-51097722-638b-4b1b-afe2-34dfd24b68bc.jpg)
+
+14.["E disse Deus: Haja luminares na expansão dos céus, para haver separação entre o dia e a noite; e são eles para sinais e para tempos determinados e para dias e anos." ],
+
+15.["E seja para luminares na expansão dos céus, para iluminar a terra; e assim foi. ],
+
+16.["E fez Deus os dois grandes luminares: o luminar maior para governar o dia, e o luminar menor para governar a noite; e fez como estrelas. ],
+
+17.["E Deus os pôs na expansão dos céus para iluminar a terra",],
+
+18.["E para governar o dia e a noite, e para fazer separação entre a luz e as trevas; e viu Deus que era bom. ],
+
+19.["E foi a tarde e a manhã, o dia quarto." ],
+
+20.["E disse Deus: As águas de Fomento abundantemente répteis de alma vivente; e voem as aves sobre a face da expansão dos céus." ],
 ["E Deus criou como grandes baleias, e todo o réptil de alma vivente que as águas abundantemente produziram conforme suas espécies; e toda a ave de asas conforme a sua espécie; e viu Deus que era bom. ],
 ["E Deus abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nas éguas; e como aves se multiplicam na terra. ],
 ["E foi a tarde e a manhã, o dia quinto." ],
