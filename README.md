@@ -11,22 +11,30 @@ You can click the Preview link to take a look at your changes.
 ![download](https://user-images.githubusercontent.com/98570514/152695014-05ebbdb5-a41e-486f-a42c-2dba3aeb9969.jpg)
 This **word** is bold. This <em>word</em> is Deus.
 ##### Gn
-var livro = [["Introdução"],
+Genesis livro = [["Introdução"],
 [[" "],
-1.first ["No princípio criou Deus os céus e a terra." ],
+1.["No princípio criou Deus os céus e a terra." ],
 
-2.second ["E a terra era sem forma e vazia; e havia trevas sobre o abismo; e o Espírito de Deus se movia sobre o abismo das águas." ],
+2.["E a terra era sem forma e vazia; e havia trevas sobre o abismo; e o Espírito de Deus se movia sobre o abismo das águas." ],
 
-3.third ["E disse Deus: Haja luz; e houve luz. ],
+3.["E disse Deus: Haja luz; e houve luz. ],
 
-["E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas." ],
-["E Deus chamou a luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro." ],
-["E disse Deus: Haja uma expansão no meio das águas, e haja separação entre águas e águas." ],
-["E fez Deus a expansão, e fez separação entre as águas que estavam debaixo da expansão e as águas que estavam sobre a expansão; e assim foi. ],
-["E chamou Deus à expansão Céus, e foi a tarde e a manhã, o dia segundo." ],
-["E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca; e assim foi. ],
-["E chamou Deus à porção seca Terra; e ao ajuntamento das águas chamou Mares; e viu Deus que era bom. ],
-["E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente está nela sobre a terra; e assim foi. ],
+4.["E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas." ],
+
+5.["E Deus chamou a luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro." ],
+
+6.["E disse Deus: Haja uma expansão no meio das águas, e haja separação entre águas e águas." ],
+
+7.["E fez Deus a expansão, e fez separação entre as águas que estavam debaixo da expansão e as águas que estavam sobre a expansão; e assim foi. ],
+
+8.["E chamou Deus à expansão Céus, e foi a tarde e a manhã, o dia segundo." ],
+
+9.["E disse Deus: Ajuntem-se as águas debaixo dos céus num lugar; e apareça a porção seca; e assim foi. ],
+
+10.["E chamou Deus à porção seca Terra; e ao ajuntamento das águas chamou Mares; e viu Deus que era bom. ],
+
+11.["E disse Deus: Produza a terra erva verde, erva que dê semente, árvore frutífera que dê fruto segundo a sua espécie, cuja semente está nela sobre a terra; e assim foi. ],
+
 ["E a terra produziu erva, erva dando sementes conforme a sua espécie, e a árvore frutífera, cuja semente está nela conforme a sua espécie; e viu Deus que era bom. ],
 ["E foi a tarde e a manhã, o dia terceiro." ],
 ["E disse Deus: Haja luminares na expansão dos céus, para haver separação entre o dia e a noite; e são eles para sinais e para tempos determinados e para dias e anos." ],
