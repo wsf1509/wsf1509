@@ -3,8 +3,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
 <!---
 wsf1509/wsf1509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#### Princípio 
+This **word** is bold. This <em>word</em> is Deus.
+@@ ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![https://www.bing.com/images/search?q=b%c3%adblia+em+vetor&id=8AE3F00BA281017CD62E0A96E1EC668CC8405394&FORM=IQFRBA]
