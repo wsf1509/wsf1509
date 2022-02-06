@@ -13,9 +13,9 @@ This **word** is bold. This <em>word</em> is Deus.
 ##### Gn
 var livro = [["Introdução"],
 [[" "],
-["No princípio criou Deus os céus e a terra." ],
-["E a terra era sem forma e vazia; e havia trevas sobre o abismo; e o Espírito de Deus se movia sobre o abismo das águas." ],
-["E disse Deus: Haja luz; e houve luz. ],
+first ["No princípio criou Deus os céus e a terra." ],
+second ["E a terra era sem forma e vazia; e havia trevas sobre o abismo; e o Espírito de Deus se movia sobre o abismo das águas." ],
+third ["E disse Deus: Haja luz; e houve luz. ],
 ["E viu Deus que era boa a luz; e fez Deus separação entre a luz e as trevas." ],
 ["E Deus chamou a luz Dia; e às trevas chamou Noite. E foi a tarde e a manhã, o dia primeiro." ],
 ["E disse Deus: Haja uma expansão no meio das águas, e haja separação entre águas e águas." ],
