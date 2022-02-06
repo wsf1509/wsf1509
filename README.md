@@ -52,13 +52,20 @@ Genesis livro = [["Introdução"],
 19.["E foi a tarde e a manhã, o dia quarto." ],
 
 20.["E disse Deus: As águas de Fomento abundantemente répteis de alma vivente; e voem as aves sobre a face da expansão dos céus." ],
-["E Deus criou como grandes baleias, e todo o réptil de alma vivente que as águas abundantemente produziram conforme suas espécies; e toda a ave de asas conforme a sua espécie; e viu Deus que era bom. ],
-["E Deus abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nas éguas; e como aves se multiplicam na terra. ],
-["E foi a tarde e a manhã, o dia quinto." ],
-["E disse Deus: Produza a terra alma vivente conforme a sua espécie; gado, e répteis e feras da terra conforme a sua espécie; e assim foi. ],
-["E fez Deus como feras da terra conforme a sua espécie, e o gado conforme a sua espécie, e todo o réptil da terra conforme a sua espécie; e viu Deus que era bom. ],
-["E disse Deus: Faça o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo o réptil que se move sobre a terra." ],
+21.["E Deus criou como grandes baleias, e todo o réptil de alma vivente que as águas abundantemente produziram conforme suas espécies; e toda a ave de asas conforme a sua espécie; e viu Deus que era bom. ],
+
+22.["E Deus abençoou, dizendo: Frutificai e multiplicai-vos, e enchei as águas nas éguas; e como aves se multiplicam na terra. ],
+
+23.["E foi a tarde e a manhã, o dia quinto." ],
+
+24.["E disse Deus: Produza a terra alma vivente conforme a sua espécie; gado, e répteis e feras da terra conforme a sua espécie; e assim foi. ],
+
+25.["E fez Deus como feras da terra conforme a sua espécie, e o gado conforme a sua espécie, e todo o réptil da terra conforme a sua espécie; e viu Deus que era bom. ],
+
+26.["E disse Deus: Faça o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo o réptil que se move sobre a terra." ],
+
 ["E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou." ],
+
 ["E Deus abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra." ],
 ["E disse Deus: Eis que vos tenho dado toda a erva que dê semente, que está sobre o rosto de toda a terra; e toda a árvore, em que há fruto que dê semente, ser-vos-á para mantimento." ],
 ["E todo o animal da terra, e toda a ave dos céus, e toda a réptil da terra, em que há alma vivente, toda a erva verde será para mantimento; e assim foi. ],
