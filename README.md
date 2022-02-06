@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 #### Princípio 
 This **word** is bold. This <em>word</em> is Deus.
-@@ ![media.gettyimages.com/vectors/bible-vector!(/palavra/Viva-e-eficaz")
+- ![media.gettyimages.com/vectors/bible-vector!(/palavra/Viva-e-eficaz")
