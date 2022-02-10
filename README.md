@@ -64,24 +64,38 @@ Genesis livro = [["Introdução"],
 
 26.["E disse Deus: Faça o homem à nossa imagem, conforme a nossa semelhança; e domine sobre os peixes do mar, e sobre as aves dos céus, e sobre o gado, e sobre toda a terra, e sobre todo o réptil que se move sobre a terra." ],
 
-["E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou." ],
+27.["E criou Deus o homem à sua imagem; à imagem de Deus o criou; homem e mulher os criou." ],
 
-["E Deus abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra." ],
-["E disse Deus: Eis que vos tenho dado toda a erva que dê semente, que está sobre o rosto de toda a terra; e toda a árvore, em que há fruto que dê semente, ser-vos-á para mantimento." ],
-["E todo o animal da terra, e toda a ave dos céus, e toda a réptil da terra, em que há alma vivente, toda a erva verde será para mantimento; e assim foi. ],
-["E viu Deus tudo quanto tinha feito, e é que era muito bom; e foi a tarde e a manhã, o dia sexto. ]],
+28.["E Deus abençoou, e Deus lhes disse: Frutificai e multiplicai-vos, e enchei a terra, e sujeitai-a; e dominai sobre os peixes do mar e sobre as aves dos céus, e sobre todo o animal que se move sobre a terra." ],
+29.["E disse Deus: Eis que vos tenho dado toda a erva que dê semente, que está sobre o rosto de toda a terra; e toda a árvore, em que há fruto que dê semente, ser-vos-á para mantimento." ],
+30.["E todo o animal da terra, e toda a ave dos céus, e toda a réptil da terra, em que há alma vivente, toda a erva verde será para mantimento; e assim foi. ],
+
+31.["E viu Deus tudo quanto tinha feito, e é que era muito bom; e foi a tarde e a manhã, o dia sexto. ]],
+
 [[" "],
-["Assim, os céus, a terra e todo o seu exército foram acabados." ],
-["E havendo Deus acabado no dia sétimo a obra que faza, descansou no sétimo dia de toda a sua obra, que tinha feito." ],
+
+32.["Assim, os céus, a terra e todo o seu exército foram acabados." ],
+33.["E havendo Deus acabado no dia sétimo a obra que faza, descansou no sétimo dia de toda a sua obra, que tinha feito." ],
+
 ["E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fazera." ],
+
 ["Estas são como origens dos céus e da terra, quando foram criados; no dia em que o SENHOR Deus fez a terra e os céus,"],
-["E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o SENHOR Deus não tinha feito chover sobre a terra, e não era homem para lavrar a terra." ],
+
+["E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o SENHOR Deus não tinha feito chover sobre a terra, e não 
+era homem para lavrar a terra." ],
+
 ["Um vapor, porém, subia da terra, e regava toda a face da terra." ],
+
 ["E formou o SENHOR Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente." ],
+
 ["E plantou o SENHOR Deus um jardim no Éden, do lado oriental; e pôs ali o homem que tinha formado." ],
+
 ["E o SENHOR Deus fez brotar da terra toda a árvore agradável à vista, e boa para comida; e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal." ],
+
 ["E saía um rio do Éden para regar o jardim; e dali se dividira e se tornava em quatro braços." ],
+
 ["O nome do primeiro é Pisom; este é o que rodeia toda a terra de Havilá, onde há ouro." ],
+
 ["E o ouro dessa terra é bom; ali há o bdélio, e a pedra sardônica." ],
 ["E o nome do segundo rio é Giom; este é o que rodeia toda a terra de Cuxe. ],
 ["E o nome do terceiro rio é Tigre; este é o que vai para o lado oriental da Assíria; e o quarto rio é o Eufrates." ],
