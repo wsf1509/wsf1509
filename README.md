@@ -77,14 +77,14 @@ Genesis livro = [["Introdução"],
 32.["Assim, os céus, a terra e todo o seu exército foram acabados." ],
 33.["E havendo Deus acabado no dia sétimo a obra que faza, descansou no sétimo dia de toda a sua obra, que tinha feito." ],
 
-["E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fazera." ],
+34.["E abençoou Deus o dia sétimo, e o santificou; porque nele descansou de toda a sua obra que Deus criara e fazera." ],
 
-["Estas são como origens dos céus e da terra, quando foram criados; no dia em que o SENHOR Deus fez a terra e os céus,"],
+35.["Estas são como origens dos céus e da terra, quando foram criados; no dia em que o SENHOR Deus fez a terra e os céus,"],
 
-["E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o SENHOR Deus não tinha feito chover sobre a terra, e não 
+36.["E toda a planta do campo que ainda não estava na terra, e toda a erva do campo que ainda não brotava; porque ainda o SENHOR Deus não tinha feito chover sobre a terra, e não 
 era homem para lavrar a terra." ],
 
-["Um vapor, porém, subia da terra, e regava toda a face da terra." ],
+37.["Um vapor, porém, subia da terra, e regava toda a face da terra." ],
 
 ["E formou o SENHOR Deus o homem do pó da terra, e soprou em suas narinas o fôlego da vida; e o homem foi feito alma vivente." ],
 
